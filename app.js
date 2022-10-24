@@ -1,5 +1,5 @@
 console.log("Hello World!\n==========\n");
-/*
+
 // Exercise 1 Section
 console.log("EXERCISE 1:\n==========\n");
 
@@ -69,7 +69,7 @@ do {
     }
     i++;
 } while (i <= 100)
-*/
+
 
 // Exercise 4 Section
 console.log("EXERCISE 4:\n==========\n");
